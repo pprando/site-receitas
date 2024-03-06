@@ -1,0 +1,47 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f9f9f9;
+    color: #333;
+}
+
+
+ #frangoXadrez, #fricasse, #batataRecheada, #arrozSeteGraos {
+    background-color: #f5f5f5;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1, h2, h3, h5 {
+    color: #594946;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+    margin-bottom: 15px;
+}
+
+p {
+    line-height: 2.0;
+}
+
+#arrozSeteGraos {
+    background-color: #cceefc;
+}
+
+#frangoXadrez {
+    background-color: #e5e5ff;
+}
+
+#fricasse {
+    background-color: #beb7f3;
+}
+
+#batataRecheada {
+    background-color: rgb(205, 241, 229);
+}
